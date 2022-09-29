@@ -1,6 +1,6 @@
 # ayu-plsql-color-scheme
 Ayu PLSQL Color Theme
-
+Color Scheme Formula = Red + (Green * 256) + (Blue * 256 * 256)
 <ul>
 <li>Background = 16579836</li>
 <li>Foreground = 6709596</li>
